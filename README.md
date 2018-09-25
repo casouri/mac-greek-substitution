@@ -7,6 +7,6 @@ This approach choosed is because test substitution in macOS is case-insensitive.
 
 # Install
 
-Here I'll just stole the gif from [Macmoji](https://github.com/warpling/Macmoji):
+Here I just steal the gif from [Macmoji](https://github.com/warpling/Macmoji):
 
 ![install](./install.gif)
